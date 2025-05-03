@@ -62,7 +62,7 @@ This project uses a dataset containing advertising budgets and sales data to bui
 
 ### Actual vs Predicted Sales Plot
 
-![Sales Prediction Output](https://raw.githubusercontent.com/jakevdp/PythonDataScienceHandbook/master/notebooks/figures/05.06-linear-regression.png)
+![Sales Prediction Output](sales_prediction_plot.png)
 
 - **Mean Squared Error**: ~2.4 (example)
 - **R² Score**: ~0.89 (example)
