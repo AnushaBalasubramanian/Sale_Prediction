@@ -61,8 +61,14 @@ This project uses a dataset containing advertising budgets and sales data to bui
 ## Output
 
 ### Actual vs Predicted Sales Plot
+Below is the visualization showing:
+- Pairplot of advertising features and sales
+- Correlation heatmap
+- Actual vs Predicted Sales scatter plot
 
-![Sales Prediction Output](sales_prediction_plot.png)
+![Sales Prediction Output](https://i.postimg.cc/3kyd4N1V/sales-prediction.png)
+
+
 
 - **Mean Squared Error**: ~2.4 (example)
 - **R² Score**: ~0.89 (example)
